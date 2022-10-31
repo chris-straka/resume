@@ -60,3 +60,15 @@ li {
     color: #3391FF;
   }
 }
+
+@media (max-width: 580px) {
+  main {
+    width: 60ch;
+  }
+}
+
+@media (max-width: 360px) {
+  main {
+    width: 40ch;
+  }
+}
